@@ -1,0 +1,14 @@
+{
+  "name": "electron-practice",
+  "version": "1.0.0",
+  "description": "Checking out how Electron works for creating cross-platform desktop applications.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Connor McNeely",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
